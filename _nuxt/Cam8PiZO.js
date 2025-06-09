@@ -1,0 +1,1 @@
+const t={title:{t:0,b:{t:2,i:[{t:3}],s:"Webfolio"}},today:{t:0,b:{t:2,i:[{t:3}],s:"today"}},meta:{title:{t:0,b:{t:2,i:[{t:3}],s:"Guilhem Heinrich's Webfolio"}},description:{t:0,b:{t:2,i:[{t:3}],s:"The professional portfolio of Guilhem Heinrich, fullstack web developer."}}}};export{t as default};
